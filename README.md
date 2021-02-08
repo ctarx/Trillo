@@ -15,4 +15,4 @@ Flexbox layout with SCSS and BEM practice.
 [Advanced CSS and SASS](https://www.udemy.com/share/1000cABUcbcVxUQnw=/) Udemy Course 
 
 ## Contact
-Created by [@ctarx](https://twitter.com/ctarx) - feel free to contact me!
+Created by [@ctarx](https://linuxrocks.online/@ctarx) - feel free to contact me!
